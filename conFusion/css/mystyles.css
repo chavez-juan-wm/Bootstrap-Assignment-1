@@ -75,3 +75,9 @@ body{
 .carousel-caption{
     margin-left: 190px;
 }
+
+#carouselButtons {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
